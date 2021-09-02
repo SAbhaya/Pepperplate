@@ -1,0 +1,17 @@
+Title: Bread Bakery
+Description: Anomas
+Source: 
+Original URL: 
+Yield: 
+Active: 
+Total: 
+Ingredients:
+	20 kg flour
+	400 g salt
+	50 g yeast
+	500 g butter
+	500 g sugar
+
+Instructions:
+	11/2 hrs rest
+
